@@ -16,7 +16,7 @@ License -> https://github.com/Naviya2/LeoYouTubeDownloader/blob/main/LICENSE
 
 Deploy on Heroku
 <p align="left">
-  <a href="https://heroku.com/deploy?template=https://github.com/Naviya2/LeoYouTubeDownloader">
+  <a href="https://heroku.com/deploy?template=https://github.com/Ajmal342/EL-downloader">
      <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
   </a>
 </p>
